@@ -11,7 +11,7 @@ Build Firefox-based browsers with ease
 ## Installation
 
 ```sh
-npm install @zen-browser/surfer
+npm install @sulfer/surfer
 ```
 
 ## Documentation
